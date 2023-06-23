@@ -1,0 +1,109 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: light;
+    background-color: ;
+    
+}
+
+.main0{
+    background-color:white;
+}
+
+nav{
+    margin: 0;
+}
+nav ul li{
+    text-align: center;
+    list-style: none;
+   
+}
+nav ul li a{
+    text-decoration: none;
+}
+
+.pic{
+    padding: 10px;
+    height: 80px;
+   
+}
+
+.main1{
+    height: 80vh;
+    background-image: url("https://cdn.pixabay.com/photo/2016/03/09/09/30/woman-1245817_1280.jpg");
+    color: white;
+}
+.header{
+    margin-top: 5px;
+    color: royalblue;
+}
+.c1{
+    margin-top:35vh;
+}
+.bn{
+    border-radius: 25px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    border: solid white 3px;
+}
+
+.main2{
+    border-radius: 25px;
+    margin-top: 25px;
+    
+}
+.iroom{
+    height: 250px;
+    width: 250px;
+    border: solid orange 5px;
+}
+.pic1{
+    height: 80px;
+    border-radius: 15px;
+    padding: 10px;
+}
+.ami{
+    height: 140px;
+    
+}
+.main3{
+    border-radius: 25px;
+    margin-top: 25px;
+ 
+}
+.amp{
+ 
+   
+}
+.imap{
+height: 350px;
+
+}
+.bttn{
+    color: white;
+    text-decoration: none;
+    background-color: royalblue;
+   
+    
+
+}
+.maingeo{
+    height: 275px;
+    width: 250px;
+}
+.homee{
+    text-decoration: none;
+}
+.direct{
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 50px;
+    border-radius: 25px;
+    border: 3px solid royalblue;
+}
+.addr{
+   
+}
+.maddr{
+    
+}
